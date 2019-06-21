@@ -15,7 +15,7 @@
                     "background_color": "rgb(255,255,255)",
                     "background_image": "url(./img/background.png)"
                 },
-                "game_speed": 20,
+                "game_speed": 40,
                 "border_width": 20,
                 "num_individuals": 10,
                 "num_food": 25,

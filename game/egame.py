@@ -41,6 +41,8 @@ class EGame:
         self.colors = {}
         # blueish
         self.colors["pop1"] = [(100, 100, 255), "blue"]
+        #self.colors["pop1"] = [(0,139,139), "blueish"]
+        255,0,0
         # orangish
         self.colors["pop2"] = [(255, 165, 0), "yellow"]
 

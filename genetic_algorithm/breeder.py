@@ -237,5 +237,5 @@ class Breeder:
         # maybe one that survived long, had a large food perception
         # and a high desire to eat food + high armor?
         score = dna[0][0] + dna[1][0] + dna[2][0] + \
-            statistic.time_survived + statistic.food_eaten + statistic.food_seen
+            statistic.time_survived + statistic.food_eaten + statistic.food_seen + 
         return score
